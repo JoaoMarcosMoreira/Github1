@@ -1,3 +1,3 @@
 # Github1
-Primeiro reprository para treinar o Github 
+Primeiro repositorio para treinar o Github 
 LP2
